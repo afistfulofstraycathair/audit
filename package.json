@@ -1,7 +1,7 @@
 {
   "name": "audit-app",
   "version": "1.0.0",
-  "homepage": "https://adamc.github.io/audit-app",
+  "homepage": "https://afistfulofstraycathair.github.io/audit-app",
   "private": true,
   "dependencies": {
     "@types/node": "^16.18.0",
