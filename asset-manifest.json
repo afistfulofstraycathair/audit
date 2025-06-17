@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/audit-app/static/css/main.4c1bd8f5.css",
+    "main.js": "/audit-app/static/js/main.c64570cd.js",
+    "index.html": "/audit-app/index.html",
+    "main.4c1bd8f5.css.map": "/audit-app/static/css/main.4c1bd8f5.css.map",
+    "main.c64570cd.js.map": "/audit-app/static/js/main.c64570cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c1bd8f5.css",
+    "static/js/main.c64570cd.js"
+  ]
+}
